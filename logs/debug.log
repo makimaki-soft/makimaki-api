@@ -1,0 +1,431 @@
+2016-01-30 10:24:36 Notice: Strict (2048): Declaration of App\Controller\BokupanAPIController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Controller/BokupanAPIController.php, line 12
+Composer\Autoload\includeFile - ROOT/vendor/composer/ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT/vendor/composer/ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE/src/Core/App.php, line 87
+Cake\Core\App::className() - CORE/src/Core/App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:25:42 Notice: Strict (2048): Declaration of App\Controller\BokupanAPIController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Controller/BokupanAPIController.php, line 13
+Composer\Autoload\includeFile - ROOT/vendor/composer/ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT/vendor/composer/ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE/src/Core/App.php, line 87
+Cake\Core\App::className() - CORE/src/Core/App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:28:03 Notice: Strict (2048): Declaration of App\Controller\BokupanAPIController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Controller/BokupanAPIController.php, line 14
+Composer\Autoload\includeFile - ROOT/vendor/composer/ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT/vendor/composer/ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE/src/Core/App.php, line 87
+Cake\Core\App::className() - CORE/src/Core/App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:41:01 Notice: Notice (8): Undefined variable: result in [/Users/sryoji/Documents/git/makimaki-api/src/Template/BokupanAPI/add.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/BokupanAPI/add.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 612
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:42:17 Notice: Deprecated (16384): Controller::$layout is deprecated. Use $this->viewBuilder()->layout() instead. in [/Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php, line 376]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+Cake\Controller\Controller::__set() - CORE/src/Controller/Controller.php, line 376
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 51
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:42:41 Notice: Deprecated (16384): Controller::$layout is deprecated. Use $this->viewBuilder()->layout() instead. in [/Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php, line 376]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+Cake\Controller\Controller::__set() - CORE/src/Controller/Controller.php, line 376
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 51
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:46:16 Notice: Deprecated (16384): Controller::$layout is deprecated. Use $this->viewBuilder()->layout() instead. in [/Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php, line 376]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+Cake\Controller\Controller::__set() - CORE/src/Controller/Controller.php, line 376
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 56
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:47:52 Notice: Notice (8): Undefined variable: result in [/Users/sryoji/Documents/git/makimaki-api/src/Template/BokupanAPI/add.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/BokupanAPI/add.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 612
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:54:24 Notice: Deprecated (16384): Controller::$autoLayout is deprecated. Use $this->viewBuilder()->autoLayout() instead. in [/Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php, line 376]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+Cake\Controller\Controller::__set() - CORE/src/Controller/Controller.php, line 376
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:55:34 Notice: Deprecated (16384): Controller::$autoLayout is deprecated. Use $this->viewBuilder()->autoLayout() instead. in [/Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php, line 376]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+Cake\Controller\Controller::__set() - CORE/src/Controller/Controller.php, line 376
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 10:58:20 Notice: Notice (8): Undefined variable: tihs in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 56]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 56
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 11:08:37 Debug: 1
+2016-01-30 11:08:37 Debug: 1
+2016-01-30 11:09:10 Debug: 1
+2016-01-30 11:09:10 Debug: 1
+2016-01-30 11:19:16 Debug: 1
+2016-01-30 11:19:16 Debug: 1
+2016-01-30 11:19:41 Debug: 1
+2016-01-30 11:19:41 Debug: 1
+2016-01-30 11:20:59 Debug: 1
+2016-01-30 11:20:59 Debug: 1
+2016-01-30 11:23:14 Debug: 1
+2016-01-30 11:23:14 Debug: here
+2016-01-30 11:24:52 Debug: here1
+2016-01-30 11:25:39 Debug: here1
+2016-01-30 11:25:39 Debug: here
+2016-01-30 11:30:43 Debug: here1
+2016-01-30 11:30:43 Debug: here
+2016-01-30 11:31:12 Debug: here1
+2016-01-30 11:31:12 Debug: here
+2016-01-30 13:45:44 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 57]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:47:09 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:47:13 Notice: Notice (8): Undefined variable: status in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 62]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 62
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:48:30 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 60]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 60
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:48:48 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 47
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:48:57 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 47
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:49:03 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 47
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:50:09 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 47
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:50:09 Debug: 
+2016-01-30 13:50:30 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 47
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:50:30 Debug: here
+2016-01-30 13:50:49 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 47
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:50:49 Debug: 
+2016-01-30 13:51:45 Debug: 
+2016-01-30 13:51:45 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 48
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:52:13 Debug: 
+2016-01-30 13:52:13 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 48
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:52:29 Debug: 
+2016-01-30 13:52:29 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 48
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:52:56 Debug: 
+2016-01-30 13:52:56 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 48
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:53:25 Debug: 
+2016-01-30 13:53:25 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 48
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:53:42 Notice: Notice (8): Trying to get property of non-object in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 47
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 13:56:57 Debug: Array
+(
+    [name] => 僕パンやろうぜ！
+    [host_user] => makimaki-soft
+    [message] => 初心者歓迎
+    [member_num] => 1
+)
+
+2016-01-30 13:59:01 Debug: Array
+(
+    [name] => test
+    [host_user] => makimaki-soft
+    [message] => test
+    [member_num] => 1
+)
+
+2016-01-30 13:59:05 Debug: Array
+(
+    [name] => test
+    [host_user] => makimaki-soft
+    [message] => test
+    [member_num] => 1
+)
+
+2016-01-30 13:59:12 Debug: Array
+(
+    [name] => test
+    [host_user] => makimaki-soft
+    [message] => test
+    [member_num] => 1
+)
+
+2016-01-30 13:59:42 Debug: Array
+(
+    [name] => test
+    [host_user] => makimaki-soft
+    [message] => test
+    [member_num] => 1
+)
+
+2016-01-30 13:59:57 Debug: Array
+(
+    [name] => test
+    [host_user] => makimaki-soft
+    [message] => test
+    [member_num] => 1
+)
+
+2016-01-30 14:00:32 Debug: Array
+(
+    [name] => test
+    [host_user] => makimaki-soft
+    [message] => test
+    [member_num] => 1
+)
+
+2016-01-30 14:00:32 Debug: fail
+2016-01-30 14:01:30 Debug: Array
+(
+    [name] => 僕パンやろうぜ！
+    [host_user] => makimaki-soft
+    [message] => 初心者歓迎
+    [member_num] => 1
+)
+
+2016-01-30 14:01:30 Debug: success

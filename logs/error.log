@@ -1,0 +1,559 @@
+2016-01-30 10:22:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class BokupanAPI could not be found.
+Exception Attributes: array (
+  'class' => 'BokupanAPI',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-01-30 10:24:36 Error: Fatal Error (1): Class 'App\Controller\ConnectionManager' not found in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 20]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:24:36 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\ConnectionManager' not found
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Users/sryoji/D...', 20)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:25:42 Error: Fatal Error (1): Call to a member function newEntity() on boolean in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 30]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:25:42 Error: [Cake\Error\FatalErrorException] Call to a member function newEntity() on boolean
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/Users/sryoji/D...', 30)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:28:03 Error: Fatal Error (1): Call to a member function newEntity() on boolean in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 31]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:28:03 Error: [Cake\Error\FatalErrorException] Call to a member function newEntity() on boolean
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/Users/sryoji/D...', 31)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:29:09 Error: Fatal Error (1): Call to a member function newEntity() on boolean in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 32]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:29:09 Error: [Cake\Error\FatalErrorException] Call to a member function newEntity() on boolean
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/Users/sryoji/D...', 32)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:31:27 Error: Fatal Error (1): Class 'App\Controller\Log' not found in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 32]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:31:27 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Log' not found
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Users/sryoji/D...', 32)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:31:53 Error: Fatal Error (1): Class 'App\Controller\Log' not found in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:31:53 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Log' not found
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Users/sryoji/D...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:33:19 Error: Fatal Error (1): Call to a member function newEntity() on boolean in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 32]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:33:19 Error: [Cake\Error\FatalErrorException] Call to a member function newEntity() on boolean
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/Users/sryoji/D...', 32)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:35:57 Error: Fatal Error (1): Class 'App\Controller\TableRegistry' not found in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 32]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:35:57 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\TableRegistry' not found
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Users/sryoji/D...', 32)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:36:12 Error: [Cake\View\Exception\MissingTemplateException] Template file "BokupanAPI/add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'BokupanAPI/add.ctp',
+)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php(612): Cake\View\View->render(NULL, NULL)
+#2 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#4 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-01-30 10:47:32 Error: Fatal Error (4): syntax error, unexpected '{' in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:47:32 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '{'
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Users/sryoji/D...', 54)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:51:07 Error: Fatal Error (4): syntax error, unexpected ':', expecting ']' in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:51:07 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ':', expecting ']'
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Users/sryoji/D...', 54)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 10:54:25 Error: [LogicException] Controller action can only return an instance of Response
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#1 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#2 {main}
+
+
+2016-01-30 10:58:20 Error: Fatal Error (1): Call to a member function set() on null in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 56]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 10:58:21 Error: [Cake\Error\FatalErrorException] Call to a member function set() on null
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/Users/sryoji/D...', 56)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 11:00:59 Error: Fatal Error (1): Call to undefined method App\Controller\BokupanAPIController::autoLayout() in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 11:01:00 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Controller\BokupanAPIController::autoLayout()
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/Users/sryoji/D...', 54)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 11:07:53 Error: Fatal Error (1): Class 'App\Controller\Log' not found in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 11:07:53 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Log' not found
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Users/sryoji/D...', 39)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 11:08:37 Error: Fatal Error (1): Call to a member function patchEntity() on boolean in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 46]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 11:08:38 Error: [Cake\Error\FatalErrorException] Call to a member function patchEntity() on boolean
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/Users/sryoji/D...', 46)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 11:09:10 Warning: Warning (4096): Argument 1 passed to Cake\ORM\Table::patchEntity() must be an instance of Cake\Datasource\EntityInterface, instance of App\Model\Table\RoomsTable given, called in /Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php on line 46 and defined in [/Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php, line 2043]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+Cake\ORM\Table::patchEntity() - CORE/src/ORM/Table.php, line 2043
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 46
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 11:09:10 Warning: Warning (4096): Argument 1 passed to Cake\ORM\Marshaller::merge() must be an instance of Cake\Datasource\EntityInterface, instance of App\Model\Table\RoomsTable given, called in /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php on line 2049 and defined in [/Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php, line 443]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+Cake\ORM\Marshaller::merge() - CORE/src/ORM/Marshaller.php, line 443
+Cake\ORM\Table::patchEntity() - CORE/src/ORM/Table.php, line 2049
+App\Controller\BokupanAPIController::add() - APP/Controller/BokupanAPIController.php, line 46
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 430
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-01-30 11:09:11 Error: [BadMethodCallException] Unknown method "isNew"
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php(448): Cake\ORM\Table->__call('isNew', Array)
+#1 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php(448): App\Model\Table\RoomsTable->isNew()
+#2 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(2049): Cake\ORM\Marshaller->merge(Object(App\Model\Table\RoomsTable), Array, Array)
+#3 /Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php(46): Cake\ORM\Table->patchEntity(Object(App\Model\Table\RoomsTable), Array)
+#4 [internal function]: App\Controller\BokupanAPIController->add()
+#5 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php(430): call_user_func_array(Array, Array)
+#6 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#7 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#8 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#9 {main}
+
+
+2016-01-30 11:19:16 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(422): Cake\Database\Connection->schemaCollection()
+#8 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php(462): Cake\ORM\Table->schema()
+#9 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(2049): Cake\ORM\Marshaller->merge(Object(App\Model\Entity\Room), Array, Array)
+#10 /Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php(46): Cake\ORM\Table->patchEntity(Object(App\Model\Entity\Room), Array)
+#11 [internal function]: App\Controller\BokupanAPIController->add()
+#12 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php(430): call_user_func_array(Array, Array)
+#13 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#15 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2016-01-30 11:19:41 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(422): Cake\Database\Connection->schemaCollection()
+#8 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php(462): Cake\ORM\Table->schema()
+#9 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(2049): Cake\ORM\Marshaller->merge(Object(App\Model\Entity\Room), Array, Array)
+#10 /Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php(46): Cake\ORM\Table->patchEntity(Object(App\Model\Entity\Room), Array)
+#11 [internal function]: App\Controller\BokupanAPIController->add()
+#12 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php(430): call_user_func_array(Array, Array)
+#13 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#15 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2016-01-30 11:20:59 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(422): Cake\Database\Connection->schemaCollection()
+#8 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php(462): Cake\ORM\Table->schema()
+#9 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(2049): Cake\ORM\Marshaller->merge(Object(App\Model\Entity\Room), Array, Array)
+#10 /Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php(46): Cake\ORM\Table->patchEntity(Object(App\Model\Entity\Room), Array)
+#11 [internal function]: App\Controller\BokupanAPIController->add()
+#12 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php(430): call_user_func_array(Array, Array)
+#13 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#15 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2016-01-30 11:23:14 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(422): Cake\Database\Connection->schemaCollection()
+#8 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php(462): Cake\ORM\Table->schema()
+#9 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(2049): Cake\ORM\Marshaller->merge(Object(App\Model\Entity\Room), Array, Array)
+#10 /Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php(46): Cake\ORM\Table->patchEntity(Object(App\Model\Entity\Room), Array)
+#11 [internal function]: App\Controller\BokupanAPIController->add()
+#12 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php(430): call_user_func_array(Array, Array)
+#13 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#15 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2016-01-30 11:24:32 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(422): Cake\Database\Connection->schemaCollection()
+#8 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php(462): Cake\ORM\Table->schema()
+#9 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(2049): Cake\ORM\Marshaller->merge(Object(App\Model\Entity\Room), Array, Array)
+#10 /Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php(45): Cake\ORM\Table->patchEntity(Object(App\Model\Entity\Room), Array)
+#11 [internal function]: App\Controller\BokupanAPIController->add()
+#12 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php(430): call_user_func_array(Array, Array)
+#13 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#15 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2016-01-30 11:24:37 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(422): Cake\Database\Connection->schemaCollection()
+#8 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php(462): Cake\ORM\Table->schema()
+#9 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(2049): Cake\ORM\Marshaller->merge(Object(App\Model\Entity\Room), Array, Array)
+#10 /Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php(45): Cake\ORM\Table->patchEntity(Object(App\Model\Entity\Room), Array)
+#11 [internal function]: App\Controller\BokupanAPIController->add()
+#12 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php(430): call_user_func_array(Array, Array)
+#13 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#15 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2016-01-30 11:24:52 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Database/Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(422): Cake\Database\Connection->schemaCollection()
+#8 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Marshaller.php(462): Cake\ORM\Table->schema()
+#9 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/ORM/Table.php(2049): Cake\ORM\Marshaller->merge(Object(App\Model\Entity\Room), Array, Array)
+#10 /Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php(46): Cake\ORM\Table->patchEntity(Object(App\Model\Entity\Room), Array)
+#11 [internal function]: App\Controller\BokupanAPIController->add()
+#12 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Controller/Controller.php(430): call_user_func_array(Array, Array)
+#13 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BokupanAPIController))
+#15 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2016-01-30 11:29:50 Error: Fatal Error (1): Call to undefined method Cake\Database\Connection::newEntity() in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 11:29:50 Error: [Cake\Error\FatalErrorException] Call to undefined method Cake\Database\Connection::newEntity()
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/Users/sryoji/D...', 40)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 11:31:04 Error: Fatal Error (4): syntax error, unexpected '=' in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 11:31:04 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '='
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Users/sryoji/D...', 48)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 13:07:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Bokupan could not be found.
+Exception Attributes: array (
+  'class' => 'Bokupan',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /makimaki-api/bokupan/
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-01-30 13:08:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Bokupan could not be found.
+Exception Attributes: array (
+  'class' => 'Bokupan',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /makimaki-api/bokupan/
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-01-30 13:45:06 Error: Fatal Error (1): Class 'App\Controller\Configure' not found in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/AppController.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 13:45:06 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Configure' not found
+Request URL: /makimaki-api/bokupan/
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Users/sryoji/D...', 47)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 13:52:04 Error: Fatal Error (4): syntax error, unexpected 'Log' (T_STRING) in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 13:52:04 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'Log' (T_STRING)
+Request URL: /makimaki-api/bokupan/
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Users/sryoji/D...', 47)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-01-30 13:53:18 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/Users/sryoji/Documents/git/makimaki-api/src/Controller/BokupanAPIController.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-01-30 13:53:18 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /makimaki-api/bokupan/add
+Stack Trace:
+#0 /Users/sryoji/Documents/git/makimaki-api/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Users/sryoji/D...', 48)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
