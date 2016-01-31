@@ -44,8 +44,9 @@ Router::defaultRouteClass('DashedRoute');
 Router::scope('/bokupan', ['controller' => 'BokupanAPI'], function ($routes){
     $routes->connect('/');
     $routes->connect('/add', ['action' => 'add']);
-    $routes->connect('/edit', ['action' => 'add']);
-    $routes->connect('/delete', ['action' => 'add']);
+    $routes->connect('/edit', ['action' => 'edit']);
+    $routes->connect('/delete', ['action' => 'delete']);
+    $routes->connect('/list', ['action' => 'roomList']);
 });
 
 Router::scope('/', function ($routes) {
